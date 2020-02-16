@@ -12,9 +12,7 @@ export const query = graphql`
         title
         author
       }
-      code {
-        body
-      }
+      body
     }
   }
 `;
